@@ -60,3 +60,7 @@ Add this to globals.css:
 
 enable jit mode in tailwind config
 purge unwanted css
+
+npm install react-icons --save
+
+learn icons
